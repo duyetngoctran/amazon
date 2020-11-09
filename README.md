@@ -1,4 +1,4 @@
-UI for Music Website
+Ecommerce Web like Amazon Using React and Firestore
 
 Live Demo: https://fir-dd1ff.web.app/
 
